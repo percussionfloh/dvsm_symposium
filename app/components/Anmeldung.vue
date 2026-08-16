@@ -23,7 +23,7 @@
             </div>
             <div class="text-lg p-5">
                 Hier könnt ihr Schlafplätze für Symposiums-Besucher*innen anbieten, oder euch bei Bedarf auf einen Schlafplatz (bewerben): <br><br>
-                <UButton size="xl" href="https://docs.google.com/spreadsheets/d/1inKmb3aJ8aEVampGlC7GifTrEyUS6Y5zPPOM05-tHjI/edit?usp=sharing" class="bg-blue-600 hover:bg-blue-700" label="Schlafplatzbörse.docx"> </UButton>
+                <UButton size="xl" href="https://docs.google.com/spreadsheets/d/1inKmb3aJ8aEVampGlC7GifTrEyUS6Y5zPPOM05-tHjI/edit?usp=sharing" target="_blank" class="bg-blue-600 hover:bg-blue-700" label="Schlafplatzbörse.docx"> </UButton>
             </div>
         </div>
     </div>
