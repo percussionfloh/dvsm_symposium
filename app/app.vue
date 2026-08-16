@@ -13,7 +13,8 @@ useHead({
 })
 </script>
 
-<template>
+<template class="grid-rows-7 p-4">
   <TheHeader />
   <Infotext />
+  <Anmeldung />
 </template>
