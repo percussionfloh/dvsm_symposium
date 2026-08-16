@@ -15,10 +15,11 @@ useHead({
 
 <template>
       <TheHeader />
-    <div class="grid grid-rows-[1fr_0.3fr_0.2fr_0.8fr] gap-10 pt-20 px-30">
+    <div class="grid grid-rows-[1fr_0.5fr_0.2fr_0.8fr_0.7fr] gap-10 pt-20 px-30">
       <Infotext />
       <Anmeldung />
       <Zeitplan />
       <Anfahrt />
+      <Awareness />
   </div>
 </template>
