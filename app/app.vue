@@ -15,4 +15,5 @@ useHead({
 
 <template>
   <TheHeader />
+  <Infotext />
 </template>
