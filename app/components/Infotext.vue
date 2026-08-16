@@ -19,7 +19,7 @@
         Beiträge aus den Sparten der künstlerischen Forschung und Praxis, wie Performances, installative Arbeiten sowie Workshops werden als Formate der (Wissens-)Vermittlung anerkannt und gleichrangig zu rein inhaltlichen Vorträgen gesehen.
         Zu Beginn der DVSM-Symposienreihe Ende der 1980er-Jahre war die Einbindung künstlerischer Programmpunkte gängige Praxis – dies soll wieder aufgenommen und weitergedacht werden. 
         Die Tagung leistet somit einen Beitrag zum Verständnis von Wissensweitergabe, bei der das Hören und Denken als körperliche Praxis im Mittelpunkt stehen.<br><br>
-        ¹ Vgl. u.a. ohne Vollständigkeitsanspruch: Kerman 1985; McClary 1991; Citron 1993; Bohlman 1993; Goehr 2007; Noeske 2010; Pietschmann und Wald-Fuhrmann 2013; yamomo 2018; Bull 2019; Ewell 2020; Abfalter und Reitsamer 2022; Kisiedu und Lewis 2023; Lee 2023.
-        </p>
+        ¹ Vgl. u.a. ohne Vollständigkeitsanspruch: Kerman 1985; McClary 1991; Citron 1993; Bohlman 1993; Goehr 2007; Noeske 2010; Pietschmann und Wald-Fuhrmann 2013; yamomo 2018; Bull 2019; Ewell 2020; Abfalter und Reitsamer 2022; Kisiedu und Lewis 2023; Lee 2023.        
+    </p>
     </div>
 </template>
