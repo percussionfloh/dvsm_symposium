@@ -21,6 +21,6 @@ useHead({
       <Zeitplan />
       <Anfahrt />
       <Awareness />
-      <Mi />
+      <Mi/>
   </div>
 </template>
