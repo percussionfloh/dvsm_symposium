@@ -15,9 +15,9 @@ useHead({
 
 <template>
       <TheHeader />
-    <div class="grid grid-rows-[1fr_1fr] gap-10 pt-20 px-30">
+    <div class="grid grid-rows-[1fr_0.3fr_1fr] gap-10 pt-20 px-30">
       <Infotext />
       <Anmeldung />
-      <Anreise />
+      <Anfahrt />
   </div>
 </template>
