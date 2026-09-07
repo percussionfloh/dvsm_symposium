@@ -1,4 +1,4 @@
-- Theaterwissenschaften und richtige UDK auf Karte
+// - Theaterwissenschaften und richtige UDK auf Karte
 - _weiß_ im Mi Text klein und kursiv schreiben
 - Blocksatz
 - Fußnote beim ersten Text kleiner
