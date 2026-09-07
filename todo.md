@@ -1,5 +1,5 @@
 // - Theaterwissenschaften und richtige UDK auf Karte
-- _weiß_ im Mi Text klein und kursiv schreiben
+// - _weiß_ im Mi Text klein und kursiv schreiben
 - Blocksatz
 - Fußnote beim ersten Text kleiner
 - Logos ohne Hintergrund
