@@ -23,9 +23,10 @@
             layer-type="base"
             name="OpenStreetMap"
             />
-            <LMarker :lat-lng="[52.5104550, 13.3303811]" />
-            <LMarker :lat-lng="[52.511912, 13.327182]" />
-            <LMarker :lat-lng="[52.518153, 13.393735]" />
+            <LMarker :lat-lng="[52.4569, 13.3154]" /> //Inst. f. Theaterwissenschaften
+            <LMarker :lat-lng="[52.509333, 13.328944]" /> // UDK gefixed
+            <LMarker :lat-lng="[52.511912, 13.327182]" /> // TU
+            <LMarker :lat-lng="[52.518153, 13.393735]" /> // HU
             </LMap>
         </div>
     </div>
