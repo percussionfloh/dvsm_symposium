@@ -24,7 +24,7 @@
             <div class="p-5">
                 <p>
                 Organisationsteam:<br>
-                Filip Bayer-Čech (FU Berlin / HU zu Berlin, er/ihm)<br>
+                Filip Bayer-Čech (FU Berlin / HU Berlin, er/ihm)<br>
                 Florian Moldaschl (HfM Freiburg, er/ihm)<br>
                 Emilia Reiter (FU Berlin / HU Berlin, keine/dey/demm)<br>
                 Marie-A. Schwebe (UdK Berlin, sie/ihr)<br>
