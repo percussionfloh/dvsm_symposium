@@ -3,7 +3,9 @@
 </script>
 
 <template>
-    <div class="text-center text-lg">
-    <h2> Zugangsinformationen folgen </h2>
+    <div class="text-center">
+        <div class="font-bold text-2xl text-red-800">
+            <h2>Zugangsdaten folgen</h2>
+        </div>
     </div>
 </template>
