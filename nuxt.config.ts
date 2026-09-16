@@ -6,6 +6,6 @@ export default defineNuxtConfig({
   css: ['~/assets/main.css'],
 
     app: {
-    baseURL: '/dvsm_symposium/'
+    baseURL: '/'
   }
 })
