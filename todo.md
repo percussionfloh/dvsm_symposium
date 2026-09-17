@@ -6,4 +6,8 @@
 // - Logos von HU, FU, UdK
 // - nach AW-Konzept noch Überschrift "Zugangsinformationen folgen"
 // - domain?: criticalmusicologies.com / critical-musicology-musicainaudita
-Nav
+// Nav
+- Bilder von uns/Awarenessteam
+- willkommenstext
+- zugangsinfos
+- awarnessinfos
