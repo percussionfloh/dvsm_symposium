@@ -5,7 +5,7 @@
 <template>
     <header>
         <div class="w-full">  
-            <div class="grid grid-cols-[25%_50%_25%] justify-items-center p-4">
+            <div class="grid grid-cols-[25%_50%_25%] justify-items-center pt-10 p-4">
                 <div class="flex p-1 sm:p-2 md:p-4">
                 <img src="/assets/mi.png" class="max-h-15 sm:max-h-30 md:max-h-40 lg:max-h-50" alt="Logo musica inaudita">
                 </div>
