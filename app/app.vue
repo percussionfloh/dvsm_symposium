@@ -18,7 +18,8 @@ useHead({
 </script>
 
 <template>
-  <div class="">
+  <div>
+    <TheNavigation />
     <TheHeader />
   </div>
   <div class="w-full grid 
