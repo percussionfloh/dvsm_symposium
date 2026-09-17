@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="grid grid-cols-2">
+    <div class="grid grid-cols-1 md:grid-cols-2">
         <div class="text-center">
             <h2 class="text-2xl font-bold">Anfahrt</h2>
             <p>
@@ -13,7 +13,7 @@
         <div>
             <LMap
             style="height: 400px;"
-            :zoom="12.2"
+            :zoom="11.2"
             :center="[52.5104550, 13.3303811]"
             :use-global-leaflet="false"
             >
@@ -23,10 +23,10 @@
             layer-type="base"
             name="OpenStreetMap"
             />
-            <LMarker :lat-lng="[52.4569, 13.3154]" /> //Inst. f. Theaterwissenschaften
-            <LMarker :lat-lng="[52.509333, 13.328944]" /> // UDK gefixed
-            <LMarker :lat-lng="[52.511912, 13.327182]" /> // TU
-            <LMarker :lat-lng="[52.518153, 13.393735]" /> // HU
+            <LMarker :lat-lng="[52.459067, 13.307898]" /> //Inst. f. Theaterwissenschaften
+            <LMarker :lat-lng="[52.509381, 13.328497]" /> // UDK 
+            <LMarker :lat-lng="[52.45439, 13.29144]" /> // FU
+            <LMarker :lat-lng="[52.518715, 13.393471]" /> // HU
             </LMap>
         </div>
     </div>
