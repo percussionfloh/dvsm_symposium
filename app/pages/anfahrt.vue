@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <Anfahrt />
+    <Anfahrtx />
 </template>

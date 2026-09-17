@@ -2,5 +2,6 @@
 </script>
 
 <template>
-    <Infotext />
+    dd
+    <Infotextx />
 </template>

@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <Zeitplan />
+    <Zeitplanx />
 </template>

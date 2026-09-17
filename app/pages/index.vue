@@ -29,13 +29,13 @@ useHead({
               sm:gap-6 sm:pt-9 sm:px-15 
               md:gap-10 md:pt-20 md:px-20 
               lg:gap-10 lg:px-20 lg:px-30">
-    <Infotext />
-    <Anmeldung />
-    <Zeitplan />
-    <Anfahrt />
-    <Awareness />
-    <Zugang />
-    <Mi/>
+    <Infotextx />
+    <Anmeldungx />
+    <Zeitplanx />
+    <Anfahrtx />
+    <Awarenessx />
+    <Zugangx />
+    <Mix/>
   </div>
   <TheFooter />
 </template>

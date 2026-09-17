@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <Anmeldung />
+    <Anmeldungx />
 </template>

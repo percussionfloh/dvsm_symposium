@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <Zugang />
+    <Zugangx />
 </template>

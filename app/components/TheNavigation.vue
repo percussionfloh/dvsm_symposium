@@ -9,7 +9,7 @@ const isOpen = ref(false)
 const items = [
     [{
         label: 'Start',
-        to: localePath('/app'),
+        to: localePath('/'),
     },
     {
         label: 'Infotext',
@@ -39,7 +39,7 @@ const items = [
         label: 'Musica inaudita',
         to: localePath('/mi'),
     }],
-];
+]
 </script>
 
 <template>
@@ -79,10 +79,39 @@ const items = [
         class="fixed top-0 left-0 z-50 h-screen w-64 bg-white dark:bg-gray-900 border-r border-gray-200 dark:border-gray-800 shadow-xl"
         >
         <div class="p-2">
-            <UNavigationMenu
-            orientation="vertical"
-            :items="items"
-            />
+            <nav class="flex flex-col gap-2">
+            <NuxtLink to="/" class="p-2 hover:bg-gray-100">
+                Start
+            </NuxtLink>
+
+            <NuxtLink to="/infotext" class="p-2 hover:bg-gray-100">
+                Infotext
+            </NuxtLink>
+
+            <NuxtLink to="/anmeldung" class="p-2 hover:bg-gray-100">
+                Anmeldung
+            </NuxtLink>
+
+            <NuxtLink to="/zeitplan" class="p-2 hover:bg-gray-100">
+                Zeitplan
+            </NuxtLink>
+
+            <NuxtLink to="/anfahrt" class="p-2 hover:bg-gray-100">
+                Anfahrt
+            </NuxtLink>
+
+            <NuxtLink to="/awareness" class="p-2 hover:bg-gray-100">
+                Awareness
+            </NuxtLink>
+
+            <NuxtLink to="/zugang" class="p-2 hover:bg-gray-100">
+                Zugang
+            </NuxtLink>
+
+            <NuxtLink to="/mi" class="p-2 hover:bg-gray-100">
+                Musica inaudita
+            </NuxtLink>
+            </nav>
         </div>
         </aside>
     </Transition>

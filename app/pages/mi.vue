@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <Mi />
+    <Mix />
 </template>
