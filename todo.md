@@ -5,4 +5,5 @@
 // - Logos ohne Hintergrund -> force white bg
 // - Logos von HU, FU, UdK
 // - nach AW-Konzept noch Überschrift "Zugangsinformationen folgen"
-- domain?: criticalmusicologies.com / critical-musicology-musicainaudita
+// - domain?: criticalmusicologies.com / critical-musicology-musicainaudita
+Nav
