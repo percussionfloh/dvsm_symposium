@@ -2,44 +2,44 @@
 <script setup>
 import { ref } from 'vue'
 
-const localePath = useLocalePath();
+// const localePath = useLocalePath();
 
 const isOpen = ref(false)
 
-const items = [
-    [{
-        label: 'Start',
-        to: localePath('/'),
-    },
-    {
-        label: 'Infotext',
-        to: localePath('/infotext')
-    },
-    {
-        label: 'Anmeldung',
-        to: localePath('/anmeldung'),
-    },
-    {
-        label: 'Zeitplan',
-        to: localePath('/zeitplan'),
-    },
-    {
-        label: 'Anfahrt',
-        to: localePath('/anfahrt'),
-    },
-    {
-        label: 'Awareness',
-        to: localePath('/awareness'),
-    },
-    {
-        label: 'Zugang',
-        to: localePath('/zugang'),
-    },
-    {
-        label: 'Musica inaudita',
-        to: localePath('/mi'),
-    }],
-]
+// const items = [
+//     [{
+//         label: 'Start',
+//         to: localePath('/'),
+//     },
+//     {
+//         label: 'Infotext',
+//         to: localePath('/infotext')
+//     },
+//     {
+//         label: 'Anmeldung',
+//         to: localePath('/anmeldung'),
+//     },
+//     {
+//         label: 'Zeitplan',
+//         to: localePath('/zeitplan'),
+//     },
+//     {
+//         label: 'Anfahrt',
+//         to: localePath('/anfahrt'),
+//     },
+//     {
+//         label: 'Awareness',
+//         to: localePath('/awareness'),
+//     },
+//     {
+//         label: 'Zugang',
+//         to: localePath('/zugang'),
+//     },
+//     {
+//         label: 'Musica inaudita',
+//         to: localePath('/mi'),
+//     }],
+// ]
 </script>
 
 <template>
@@ -47,7 +47,7 @@ const items = [
         icon="i-lucide-menu"
         color="neutral"
         variant="ghost"
-        class="fixed top-4 left-4 z-50"
+        class="fixed top-4 left-4 z-10000"
         @click="isOpen = !isOpen"
     />
 
@@ -61,7 +61,7 @@ const items = [
     >
         <div
         v-if="isOpen"
-        class="fixed inset-0 bg-black/40 z-40"
+        class="fixed inset-0 bg-black/40 z-9999"
         @click="isOpen = false"
         />
     </Transition>
@@ -76,7 +76,7 @@ const items = [
     >
         <aside
         v-if="isOpen"
-        class="fixed top-0 left-0 z-50 h-screen w-64 bg-white dark:bg-gray-900 border-r border-gray-200 dark:border-gray-800 shadow-xl"
+        class="fixed top-0 left-0 z-10000 h-screen w-64 bg-white dark:bg-gray-900 border-r border-gray-200 dark:border-gray-800 shadow-xl"
         >
         <div class="p-2">
             <nav class="flex flex-col gap-2">
