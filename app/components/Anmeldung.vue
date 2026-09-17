@@ -3,8 +3,7 @@
 </script>
 
 <template>
-    <div class="grid grid-cols-2 pt-10">
-        <div class="p-5 text-center">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-10">        <div class="p-5 text-center">
             <div>
                 <h2 class="text-2xl font-bold">Anmeldung</h2>
             </div>
@@ -29,5 +28,3 @@
     </div>
 
 </template>
-
-//https://docs.google.com/spreadsheets/d/1inKmb3aJ8aEVampGlC7GifTrEyUS6Y5zPPOM05-tHjI/edit?usp=sharing
