@@ -18,10 +18,6 @@ useHead({
 </script>
 
 <template>
-  <div>
-    <TheNavigation />
-    <TheHeader />
-  </div>
   <div class="w-full grid 
               grid-rows-[1fr_0.5fr_0.1fr_0.5fr_0.7fr_1fr]
               md:grid-rows-[1fr_0.5fr_0.2fr_0.5fr_0.7fr_1fr]
@@ -37,5 +33,4 @@ useHead({
     <Zugangx />
     <Mix/>
   </div>
-  <TheFooter />
 </template>
