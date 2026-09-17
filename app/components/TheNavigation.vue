@@ -9,35 +9,35 @@ const isOpen = ref(false)
 const items = [
     [{
         label: 'Start',
-        to: localePath({name: 'app'}),
+        to: localePath('/app'),
     },
     {
         label: 'Infotext',
-        to: localePath({name: 'infotext'}),
+        to: localePath('/infotext')
     },
     {
         label: 'Anmeldung',
-        to: localePath({name: 'anmeldung'}),
+        to: localePath('/anmeldung'),
     },
     {
         label: 'Zeitplan',
-        to: localePath({name: 'zeitplan'}),
+        to: localePath('/zeitplan'),
     },
     {
         label: 'Anfahrt',
-        to: localePath({name: 'anfahrt'}),
+        to: localePath('/anfahrt'),
     },
     {
         label: 'Awareness',
-        to: localePath({name: 'awareness'}),
+        to: localePath('/awareness'),
     },
     {
         label: 'Zugang',
-        to: localePath({name: 'zugang'}),
+        to: localePath('/zugang'),
     },
     {
         label: 'Musica inaudita',
-        to: localePath({name: 'mi'}),
+        to: localePath('/mi'),
     }],
 ];
 </script>
