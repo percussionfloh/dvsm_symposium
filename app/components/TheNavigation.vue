@@ -2,40 +2,42 @@
 <script setup>
 import { ref } from 'vue'
 
+const localePath = useLocalePath();
+
 const isOpen = ref(false)
 
 const items = [
     [{
         label: 'Start',
-        to: '/',
+        to: localePath({name: 'app'}),
     },
     {
         label: 'Infotext',
-        to: '/infotext',
+        to: localePath({name: 'infotext'}),
     },
     {
         label: 'Anmeldung',
-        to: '/anmeldung',
+        to: localePath({name: 'anmeldung'}),
     },
     {
         label: 'Zeitplan',
-        to: '/zeitplan',
+        to: localePath({name: 'zeitplan'}),
     },
     {
         label: 'Anfahrt',
-        to: '/anfahrt',
+        to: localePath({name: 'anfahrt'}),
     },
     {
         label: 'Awareness',
-        to: '/awareness',
+        to: localePath({name: 'awareness'}),
     },
     {
         label: 'Zugang',
-        to: '/zugang',
+        to: localePath({name: 'zugang'}),
     },
     {
         label: 'Musica inaudita',
-        to: '/mi',
+        to: localePath({name: 'mi'}),
     }],
 ];
 </script>
