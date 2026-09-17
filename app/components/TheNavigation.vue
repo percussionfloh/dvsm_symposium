@@ -59,7 +59,7 @@ onUnmounted(() => {
             icon="i-lucide-menu"
             color="neutral"
             variant="soft"
-            class="fixed top-4 left-4 z-[10000]"
+            class="fixed top-4 right-4 z-[10000]"
             @click="isOpen = !isOpen"
         />
     </Transition>
