@@ -25,9 +25,6 @@ useHead({
               sm:gap-6 sm:pt-9 sm:px-15 
               md:gap-10 md:pt-20 md:px-20 
               lg:gap-10 lg:px-20 lg:px-30">
-    <p class="text-xl">
-      Willkommen bei unserem Symposium BLABLABLA
-    </p>
     <Infotextx />
     <Anmeldungx />
     <Zeitplanx />
