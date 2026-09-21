@@ -5,15 +5,15 @@
 <template>
     <header>
         <div class="w-full">  
-            <div class="grid grid-cols-[25%_50%_25%] justify-items-center pt-10 p-4">
+            <div class="grid grid-cols-[1fr_auto_1fr] justify-items-center pt-10 p-4">
                 <div class="flex p-1 sm:p-2 md:p-4">
-                <img src="/assets/musica_inaudita_Logo_kurz_schwarz.png" class="max-h-15 sm:max-h-30 md:max-h-40 lg:max-h-50" alt="Logo musica inaudita">
+                <img src="/assets/musica_inaudita_Logo_kurz_schwarz.png" class="block max-h-40 w-auto object-contain"  alt="Logo musica inaudita">
                 </div>
                 <div class="flex items-center">
                 <h1 class="text-lg sm:text-2xl md:text-3xl lg:text-4xl font-bold">40. DVSM-Nachwuchssymposium</h1>
                 </div>
                 <div class="flex p-4">
-                <img src="/assets/dvsm_logo.png" class="max-h-15 sm:max-h-30 md:max-h-40 lg:max-h-50" alt="Logo DVSM">
+                <img src="/assets/dvsm_logo.png" class="block max-h-40 w-auto object-contain" alt="Logo DVSM">
                 </div>
             </div>
             <div class="justify-items-center text-center p-4">
