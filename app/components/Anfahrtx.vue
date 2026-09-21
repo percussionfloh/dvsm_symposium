@@ -7,7 +7,7 @@
         <div class="text-center">
             <h2 class="text-2xl font-bold">Anfahrt</h2>
             <p>
-                Das müssen wir klären :)
+                Infos kommen bald!
             </p>
         </div>
         <div>
@@ -23,10 +23,26 @@
             layer-type="base"
             name="OpenStreetMap"
             />
-            <LMarker :lat-lng="[52.459067, 13.307898]" /> //Inst. f. Theaterwissenschaften
-            <LMarker :lat-lng="[52.509381, 13.328497]" /> // UDK 
-            <LMarker :lat-lng="[52.45439, 13.29144]" /> // FU
-            <LMarker :lat-lng="[52.518715, 13.393471]" /> // HU
+            <LMarker :lat-lng="[52.459067, 13.307898]">
+                <LTooltip :options="{ permanent: true, direction: 'top' }">
+                    Institut für Theaterwissenschaften
+                </LTooltip>
+            </LMarker>
+            <LMarker :lat-lng="[52.509381, 13.328497]">                
+                <LTooltip :options="{ permanent: true, direction: 'top' }">
+                UDK
+                </LTooltip> 
+            </LMarker>
+            <LMarker :lat-lng="[52.45439, 13.29144]">                
+                <LTooltip :options="{ permanent: true, direction: 'top' }">
+                FU
+                </LTooltip> 
+            </LMarker>
+            <LMarker :lat-lng="[52.518715, 13.393471]">                
+                <LTooltip :options="{ permanent: true, direction: 'top' }">
+                HU
+                </LTooltip> 
+            </LMarker>
             </LMap>
         </div>
     </div>
