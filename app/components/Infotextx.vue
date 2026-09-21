@@ -4,7 +4,7 @@
 
 <template>
     <div class="text-center text-lg">
-        <h1>Infotext</h1>
+        <h2 class="text-2xl font-bold">Infotext</h2>
         <p>Jährlich regt der Dachverband der Studierenden der Musikwissenschaften e.V. (DVSM) ein Nachwuchssymposium an, um dessen Konzeption und Durchführung sich Studierende bewerben können.
         Für das 40. DVSM-Nachwuchssymposium wurde das Tagungskonzept von Musica inaudita mit dem Titel »Critical Musicologies: Zwischen Kanonizität, Lehre und künstlerischer Praxis« ausgewählt. 
         In diesem Symposium sollen Kanones nicht nur in Konzertprogrammen, sondern auch in musikalischen Studiengängen, insbesondere der Musikwissenschaft, kritisch hinterfragt und damit Kanon- und Lehrkritik praktiziert werden.<br><br>

@@ -5,7 +5,16 @@ export default defineNuxtConfig({
 
   css: ['~/assets/main.css'],
 
+  
     app: {
-    baseURL: '/'
+    baseURL: '/',
+    
+    head: {
+    htmlAttrs: {
+        lang: 'de'
+      }
+    }
   }
+
 })
+
