@@ -25,17 +25,12 @@
             />
             <LMarker :lat-lng="[52.459067, 13.307898]">
                 <LTooltip :options="{ permanent: true, direction: 'top' }">
-                    Institut für Theaterwissenschaften
+                    FU: Institut für Theaterwissenschaften
                 </LTooltip>
             </LMarker>
             <LMarker :lat-lng="[52.509381, 13.328497]">                
                 <LTooltip :options="{ permanent: true, direction: 'top' }">
                 UDK
-                </LTooltip> 
-            </LMarker>
-            <LMarker :lat-lng="[52.45439, 13.29144]">                
-                <LTooltip :options="{ permanent: true, direction: 'top' }">
-                FU
                 </LTooltip> 
             </LMarker>
             <LMarker :lat-lng="[52.518715, 13.393471]">                
