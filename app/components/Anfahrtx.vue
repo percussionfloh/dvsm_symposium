@@ -25,17 +25,17 @@
             />
             <LMarker :lat-lng="[52.459067, 13.307898]">
                 <LTooltip :options="{ permanent: true, direction: 'top' }">
-                    FU: Institut für Theaterwissenschaften
+                    Freie Universität: Institut für Theaterwissenschaften
                 </LTooltip>
             </LMarker>
             <LMarker :lat-lng="[52.509381, 13.328497]">                
                 <LTooltip :options="{ permanent: true, direction: 'top' }">
-                UDK
+                Universität der Künste
                 </LTooltip> 
             </LMarker>
             <LMarker :lat-lng="[52.518715, 13.393471]">                
                 <LTooltip :options="{ permanent: true, direction: 'top' }">
-                HU
+                Humboldt-Universität: Institut für Musikwissenschaft
                 </LTooltip> 
             </LMarker>
             </LMap>
