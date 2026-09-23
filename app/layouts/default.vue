@@ -19,6 +19,7 @@ useHead({
 
 <template>
     <TheNavigation />
+    <UButton to="/tool" trailing-icon="i-lucide-arrow-right" size="xl">Einfache Sprache</UButton>
     <TheHeader />
     <main class="py-8">
         <slot></slot>
