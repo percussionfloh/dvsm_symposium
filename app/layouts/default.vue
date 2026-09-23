@@ -1,5 +1,5 @@
 <script setup>
-import logo from '~/assets/logo_small_lila.png'
+import logo from '~/assets/mi.png'
 
 const colorMode = useColorMode()
 
