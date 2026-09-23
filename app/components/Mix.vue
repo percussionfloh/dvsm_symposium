@@ -8,7 +8,7 @@
         <div>
             <h2 class="text-2xl text-pink-600 font-bold">Musica inaudita</h2>
         </div>
-        <div class="text-lg p-5">
+        <div class="text-lg p-5 text-justify">
                         <p  class="pb-5">
                 Musica inaudita ist eine seit 2021 bestehende Initiative der Universität der Künste Berlin, die mit ihrer Arbeit auf strukturell diskriminierende Realitäten der ‚klassischen’ Musikwelt aufmerksam macht.
                 Komponistinnen und Musikerinnen, die nicht <em>weiß²</em>, heteronormativ, abled und cis-männlich sind, werden im Musikbetrieb marginalisiert.
