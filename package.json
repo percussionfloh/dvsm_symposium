@@ -20,6 +20,7 @@
     "vue-router": "^5.2.0"
   },
   "devDependencies": {
-    "@iconify-json/lucide": "^1.2.123"
+    "@iconify-json/lucide": "^1.2.123",
+    "@types/node": "^26.6.2"
   }
 }
