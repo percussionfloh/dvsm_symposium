@@ -3,16 +3,16 @@ const { locale, locales, setLocale } = useI18n()
 
 
 function useDoc(name) {
-  return useAsyncData(
+    return useAsyncData(
     name,
     () =>
-      queryCollection('docs')
+        queryCollection('docs')
         .path(`/${locale.value}/${name}`)
         .first(),
     {
-      watch: [locale]
+        watch: [locale]
     }
-  )
+    )
 }
 
 const { data: mi } = await useDoc('mi')
@@ -26,8 +26,8 @@ const { data: mi } = await useDoc('mi')
         </div>
         <div class="text-lg p-5">
             <div class="text-justify pb-5">
-  <article>
-          <ContentRenderer v-if="waswird" :value="mi" />
+        <article>
+            <ContentRenderer v-if="waswird" :value="mi" />
         </article> 
                         <p  class="pb-5">
                 Musica inaudita ist eine seit 2021 bestehende Initiative der Universität der Künste Berlin, die mit ihrer Arbeit auf strukturell diskriminierende Realitäten der ‚klassischen’ Musikwelt aufmerksam macht.

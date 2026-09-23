@@ -1,0 +1,6 @@
+Musica inaudita ist eine seit 2021 bestehende Initiative der Universität der Künste Berlin, die mit ihrer Arbeit auf strukturell diskriminierende Realitäten der ‚klassischen’ Musikwelt aufmerksam macht.
+                Komponistinnen und Musikerinnen, die nicht <em>weiß²</em>, heteronormativ, abled und cis-männlich sind, werden im Musikbetrieb marginalisiert.
+                Aus diesem Grund ist es ein Anliegen der Initiative, Komponistinnen hör- und sichtbar zu machen, die aufgrund ihres Geschlechts, ihrer sexuellen Identität,
+                    sozialen oder nationalen Herkunft, Hautfarbe, Religion, Sprache, Behinderung oder politischer Anschauung nie Teil eines Kanons waren oder nachträglich aus ihnen entfernt wurden. Musica inaudita organisiert regelmäßig Konzerte mit dem Ziel,
+                    Kanonizität kritisch einzuordnen und Alternativen zu präsentieren. Durch die Konzerte wird der Musik von marginalisierten Komponistinnen eine Bühne geboten.
+                Neben Konzerten bietet die Initiative musikwissenschaftliche Workshops an und pflegt eine Datenbank, die Zugang zu Noten von und Informationen zu marginalisierten Komponist*innen bietet.
