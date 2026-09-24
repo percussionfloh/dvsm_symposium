@@ -41,12 +41,12 @@
             13:30 Uhr: Vortrag, Seonhwa Lee: Zwischen Kanon und künstlerischer Praxis: Emilie Mayer und ihre Cellosonaten <br> <br>
             14:00 Uhr: Mittagspause <br> <br>
             15:00 Uhr: Performance, widerStimme: unbeSTIMMte Träume – who cares?<br> <br>
-            16:00 Uhr: Vortrag, Fee-Noa Wendsche (keine): Vortrag „Backstage Awareness - Antidiskriminierung für marginalisierte Musiker*innen“ <br> <br>
+            16:00 Uhr: Vortrag, Fee-Noa Wendsche (keine): Backstage Awareness - Antidiskriminierung für marginalisierte Musiker*innen <br> <br>
             16:30 Uhr: Vortrag, Marie Schürmann: Wirtschaftliche Macht und Kulturelle Gleichberechtigung. Das Zusammenspiel von Finanzierungsmechanismen und der Repräsentation marginalisierter Komponist*innen in der Programmgestaltung professioneller Orchester<br> <br>
             17:00 Uhr: Kaffeepause <br> <br>
             17:15 Uhr: Workshop, Leander von Criegern (alle), Laris Bäucker (er/ihm): Partizipativer künstlerischer Beitrag “Mussage” <br> <br>
             18:15 Uhr: Ausklang, <!-- Mehrlichtmusik-Festival, 19Uhr im Studiosaal der HfM Hanns Eisler Berlin (Charlottenstraße 55, 10117 Berlin) --> <br> <br> 
-            20:00 Uhr: Party in der Humboldt-Universität zu Berlin <br> <br>
+            20:00 Uhr: Party in der Humboldt-Universität Berlin <br> <br>
         </p>
     </div>
     <div class="px-10 md:px-30 pt-20">
