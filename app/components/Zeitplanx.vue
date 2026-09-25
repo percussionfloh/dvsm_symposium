@@ -31,7 +31,7 @@
             10623 Berlin Charlottenburg-Wilmersdorf <br>
             Kammersaal</h3>
         <p class="pt-10 leading-[1.8]">
-            09:30 Uhr: Frühstück & Light-Morning-Rave<br> <br>
+            09:30 Uhr: Light-Morning-Rave<br> <br>
             10:00 Uhr: Vortrag | Neema Kurth (sie/ ihr): Is Techno Black Again? Diskursive Strategien der Bedeutungsproduktion und -verschiebung im zeitgenössischen Techno am Beispiel des TIBA Festivals<br> <br>
             10:30 Uhr: Vortrag | Isabelle Kretschmer (sie/ihr): Silenc-es/-ing': Intersektionale Perspektiven in Musicals am Beispiel von 'A Strange Loop', 'Fun Home', 'Hedwig and the Angry Inch' und 'The Color Purple' <br> <br>
             11:00 Uhr: Vortrag | Tamina Pamir (sie/ihr): “Do you have a K-Pop Bias?” Zur Aushandlung von Präferenzen für K-Pop-Gruppen: Eine qualitative Interviewstudie <br> <br>
