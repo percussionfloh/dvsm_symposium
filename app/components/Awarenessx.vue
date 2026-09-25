@@ -9,7 +9,7 @@
         </div>
         
         <div class="text-lg">
-            Awareness-Konzept folgt...
+            Awareness-Konzept wird in Kürze veröffentlicht.
         </div>
         
     </div>
