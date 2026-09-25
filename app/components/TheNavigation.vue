@@ -149,19 +149,19 @@ onUnmounted(() => {
                     </NuxtLink>
 
                     <NuxtLink
-                        to="/zugang"
+                        to="/barrierefreiheit"
                         class="rounded-md p-2 hover:bg-gray-100 dark:hover:bg-gray-800"
                         @click="isOpen = false"
                     >
-                        Zugang
+                        Barrierefreiheit und Zugangsinformationen
                     </NuxtLink>
 
                     <NuxtLink
-                        to="/mi"
+                        to="/ueber_uns"
                         class="rounded-md p-2 hover:bg-gray-100 dark:hover:bg-gray-800"
                         @click="isOpen = false"
                     >
-                        Musica inaudita
+                        Über uns
                     </NuxtLink>
 
                 </nav>
