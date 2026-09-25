@@ -7,7 +7,7 @@
         <div class="text-center">
             <h2 class="text-2xl font-bold">Anfahrt</h2>
             <p>
-                Informationen zur Anfahrt werden in Kürze veröffentlicht.
+                Weitere Informationen zur Anfahrt werden in Kürze veröffentlicht.
             </p>
         </div>
         <div>
