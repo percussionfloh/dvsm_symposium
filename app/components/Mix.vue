@@ -4,11 +4,11 @@
 
 <template>
 
-    <div class="text-center text-lg">
-        <div>
+    <div class="p-5 text-lg text-center text-justify">
+        <div class="p-5">
             <h2 class="text-2xl text-pink-600 font-bold">Musica inaudita</h2>
         </div>
-        <div class="text-lg p-5 text-justify">
+        <div class="p-5">
                         <p  class="pb-5">
                 Musica inaudita ist eine seit 2021 bestehende Initiative der Universität der Künste Berlin, die mit ihrer Arbeit auf strukturell diskriminierende Realitäten der ‚klassischen’ Musikwelt aufmerksam macht.
                 Komponistinnen und Musikerinnen, die nicht <em>weiß²</em>, heteronormativ, abled und cis-männlich sind, werden im Musikbetrieb marginalisiert.
@@ -30,6 +30,9 @@
             Marie-A. Schwebe (UdK Berlin, sie/ihr)<br>
             Jelena Wißmann (HfM Detmold, sie/ihr)<br>
             </p>
+        </div>
+        <div class="p-5">
+            Für weitere Informationen: <a class="text-blue-500" href="https://www.udk-berlin.de/musica-inaudita/">https://www.udk-berlin.de/musica-inaudita/</a> 
         </div>
     </div>
 </template>
