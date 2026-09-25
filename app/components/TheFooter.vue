@@ -15,6 +15,6 @@ const currentYear = new Date().getFullYear()
         </div>
     </div>
     <div class="border-t border-gray-200 py-6">
-        <p class="text-center text-sm text-gray-500">© {{ currentYear }}, Florian Moldaschl. Alle Rechte vorbehalten.</p>
+        <p class="text-center text-sm text-gray-500">© {{ currentYear }}, Florian Moldaschl von musica inaudita. Alle Rechte vorbehalten.</p>
     </div>
 </template>
