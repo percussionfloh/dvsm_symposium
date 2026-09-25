@@ -4,11 +4,11 @@
 
 <template>
     <div class="text-center">
-        <div class="font-bold text-2xl text-violet-800">
-            <h2>Zugangsdaten</h2>
+        <div class="font-bold text-2xl">
+            <h2>Barrierefreiheit und Zugangsinformationen</h2>
         </div>
-        <div class="font-bold text-2xl text-red-800">
-            <h2>Zugangsdaten werden in Kürze veröffentlicht.</h2>
+        <div class="text-lg text-center p-5 text-justify">
+            <h2>Informationen zur Barrierefreiheit und Zugangsinformationen werden in Kürze veröffentlicht.</h2>
         </div>
     </div>
 </template>
