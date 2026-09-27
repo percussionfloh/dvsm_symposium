@@ -35,7 +35,7 @@
             10:00 Uhr: Vortrag | Neema Kurth (sie/ ihr): Is Techno Black Again? Diskursive Strategien der Bedeutungsproduktion und -verschiebung im zeitgenössischen Techno am Beispiel des TIBA Festivals<br> <br>
             10:30 Uhr: Vortrag | Isabelle Kretschmer (sie/ihr): Silenc-es/-ing': Intersektionale Perspektiven in Musicals am Beispiel von 'A Strange Loop', 'Fun Home', 'Hedwig and the Angry Inch' und 'The Color Purple' <br> <br>
             11:00 Uhr: Vortrag | Tamina Pamir (sie/ihr): “Do you have a K-Pop Bias?” Zur Aushandlung von Präferenzen für K-Pop-Gruppen: Eine qualitative Interviewstudie <br> <br>
-            11:30 Uhr: Bewegte Pause | Rosanna Lovell & Studierende der Universität Hildesheim <br> <br>
+            11:30 Uhr: Künstlerische Intervention | Rosanna Lovell & Studierende der Universität Hildesheim <br> <br>
             12:00 Uhr: Workshop | Stefanie Bräuml (sie/ihr): Standardstücke! Standardwege?: Repertoirevorgaben als Kanonpraxis in der Ausbildung von Instrumental- und Gesangspädagog:innen und dem Unterricht an Musikschulen <br> <br>
             13:00 Uhr: Vortrag | Rosa Elvira Bandera Sotelo (sie/ihr): Künstlerische Forschung als Mittel für neue Formen des Wissenserwerbs <br> <br>
             13:30 Uhr: Vortrag | Seonhwa Lee: Zwischen Kanon und künstlerischer Praxis: Emilie Mayer und ihre Cellosonaten <br> <br>
@@ -45,7 +45,7 @@
             16:30 Uhr: Vortrag | Marie Schürmann: Wirtschaftliche Macht und Kulturelle Gleichberechtigung. Das Zusammenspiel von Finanzierungsmechanismen und der Repräsentation marginalisierter Komponist*innen in der Programmgestaltung professioneller Orchester<br> <br>
             17:00 Uhr: Kaffeepause <br> <br>
             17:15 Uhr: Workshop | Leander von Criegern (alle), Laris Bäucker (er/ihm): Partizipativer künstlerischer Beitrag “Mussage” <br> <br>
-            18:15 Uhr: Ausklang | Im Anschluss kann das MEHRLICHT!MUSIK 2026 – Ein Festival für neue Kompositionen von Studierenden besucht werden. <br> 19 Uhr im Studiosaal der HfM Hanns Eisler Berlin (Charlottenstraße 55, 10117 Berlin). <br> <br> 
+            18:15 Uhr: Ausklang | Im Anschluss kann das MEHRLICHT!MUSIK 2026 – Ein Festival für neue Kompositionen von Studierenden besucht werden. <br> (19 Uhr im Studiosaal der HfM Hanns Eisler Berlin (Charlottenstraße 55, 10117 Berlin)) <br> <br> 
             20:00 Uhr: Fachschaftsparty im Institut für Musikwissenschaft der Humboldt Universität zu Berlin <br> <br>
         </p>
     </div>
