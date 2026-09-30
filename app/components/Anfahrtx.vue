@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="grid grid-cols-1 md:grid-cols-2">
+    <div class="grid grid-cols-1 md:grid-cols-2 md:text-lg text-md">
         <div class="text-center">
             <h2 class="text-2xl font-bold">Anfahrt</h2>
             <p>

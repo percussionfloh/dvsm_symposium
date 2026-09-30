@@ -3,9 +3,9 @@
 </script>
 
 <template>
-    <div class="px-10 md:px-30">
+    <div class="md:text-lg text-md px-10 md:px-30">
         <h2 class="text-xl md:text-2xl font-bold">Tag 1</h2>
-        <h3 class="text-lg pt-3">Freitag, 20.11.2026 <br>
+        <h3 class="pt-3">Freitag, 20.11.2026 <br>
             Freie Universität Berlin <br>
             Grunewaldstraße 35 <br>
             12165 Berlin-Steglitz-Zehlendorf <br>
@@ -23,9 +23,9 @@
             19:30 Uhr: Abendprogramm <br> Helena Ernst (sie/ihr) <br> Karin Zöllner (sie/ihr) <br> Ronja Andersson (sie/ihr), Yuma Kruse (er/ihm) <br> mit Werken u.a. von Sohui Jeong und Amy Beach.
         </p>
     </div>
-    <div class="px-10 md:px-30 pt-20">
+    <div class="md:text-lg text-md px-10 md:px-30 pt-20">
         <h2 class="text-xl md:text-2xl font-bold">Tag 2</h2>
-        <h3 class="text-lg pt-3">Samstag, 21.11.2026 <br>
+        <h3 class="pt-3">Samstag, 21.11.2026 <br>
             UdK Berlin <br>
             Fasanenstraße 1B <br>
             10623 Berlin Charlottenburg-Wilmersdorf <br>
@@ -49,9 +49,9 @@
             20:00 Uhr: Fachschaftsparty im Institut für Musikwissenschaft der Humboldt Universität zu Berlin <br> <br>
         </p>
     </div>
-    <div class="px-10 md:px-30 pt-20">
+    <div class="md:text-lg text-md px-10 md:px-30 pt-20">
         <h2 class="text-xl md:text-2xl font-bold">Tag 3</h2>
-        <h3 class="text-lg pt-3">Sonntag, 22.11.2026 <br>
+        <h3 class="pt-3">Sonntag, 22.11.2026 <br>
             Humboldt-Universität Berlin <br>
             Kupfergraben 5 <br>
             10117 Berlin <br>
