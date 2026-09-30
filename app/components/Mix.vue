@@ -4,12 +4,12 @@
 
 <template>
 
-    <div class="p-5 text-lg text-center text-justify">
-        <div class="p-5">
-            <h2 class="text-2xl text-pink-600 font-bold">Musica inaudita</h2>
+    <div class="p-5 md:text-lg text-md text-center text-justify">
+        <div class="p-1 justify-items-center">
+            <img src="/assets/musica_inaudita_Logo_lang_schwarz.png" class="max-h-20" alt="Musica inaudita">
         </div>
-        <div class="p-5">
-                        <p  class="pb-5">
+        <div class="">
+            <p  class="pb-5">
                 Musica inaudita ist eine seit 2021 bestehende Initiative der Universität der Künste Berlin, die mit ihrer Arbeit auf strukturell diskriminierende Realitäten der ‚klassischen’ Musikwelt aufmerksam macht.
                 Komponistinnen und Musikerinnen, die nicht <em>weiß²</em>, heteronormativ, abled und cis-männlich sind, werden im Musikbetrieb marginalisiert.
                 Aus diesem Grund ist es ein Anliegen der Initiative, Komponistinnen hör- und sichtbar zu machen, die aufgrund ihres Geschlechts, ihrer sexuellen Identität,
@@ -23,12 +23,12 @@
         </div>
         <div class="p-5">
             <p>
-            Organisationsteam:<br>
-            Filip Bayer-Čech (FU Berlin / HU Berlin, er/ihm)<br>
-            Florian Moldaschl (HfM Freiburg, er/ihm)<br>
-            Emilia Reiter (FU Berlin / HU Berlin, keine/dey/demm)<br>
-            Marie-A. Schwebe (UdK Berlin, sie/ihr)<br>
-            Jelena Wißmann (HfM Detmold, sie/ihr)<br>
+                Organisationsteam:<br>
+                Filip Bayer-Čech (FU Berlin / HU Berlin, er/ihm)<br>
+                Florian Moldaschl (HfM Freiburg, er/ihm)<br>
+                Emilia Reiter (FU Berlin / HU Berlin, keine/dey/demm)<br>
+                Marie-A. Schwebe (UdK Berlin, sie/ihr)<br>
+                Jelena Wißmann (HfM Detmold, sie/ihr)<br>
             </p>
         </div>
         <div class="p-5">
