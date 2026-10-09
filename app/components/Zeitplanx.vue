@@ -36,7 +36,7 @@
             10:30 Uhr: Vortrag | Isabelle Kretschmer (sie/ihr): Silenc-es/-ing': Intersektionale Perspektiven in Musicals am Beispiel von 'A Strange Loop', 'Fun Home', 'Hedwig and the Angry Inch' und 'The Color Purple' <br> <br>
             11:00 Uhr: Vortrag | Tamina Pamir (sie/ihr): “Do you have a K-Pop Bias?” Zur Aushandlung von Präferenzen für K-Pop-Gruppen: Eine qualitative Interviewstudie <br> <br>
             11:30 Uhr: Künstlerische Intervention | Rosanna Lovell & Studierende der Universität Hildesheim <br> <br>
-            12:00 Uhr: Workshop | Stefanie Bräuml (sie/ihr): Standardstücke! Standardwege?: Repertoirevorgaben als Kanonpraxis in der Ausbildung von Instrumental- und Gesangspädagog:innen und dem Unterricht an Musikschulen <br> <br>
+            12:00 Uhr: Kleine Pause <br> <br>
             13:00 Uhr: Vortrag | Rosa Elvira Bandera Sotelo (sie/ihr): Künstlerische Forschung als Mittel für neue Formen des Wissenserwerbs <br> <br>
             13:30 Uhr: Vortrag | Seonhwa Lee: Zwischen Kanon und künstlerischer Praxis: Emilie Mayer und ihre Cellosonaten <br> <br>
             14:00 Uhr: Mittagspause <br> <br>
