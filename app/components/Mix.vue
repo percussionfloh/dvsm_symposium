@@ -4,19 +4,19 @@
 
 <template>
 
-    <div class="p-5 md:text-lg text-md text-center text-justify">
+    <div class="p-5 text-md md:text-lg text-center text-justify">
         <div class="p-1 justify-items-center">
             <img src="/assets/musica_inaudita_Logo_lang_schwarz.png" class="max-h-20" alt="Musica inaudita">
         </div>
-        <div class="">
-            <p  class="pb-5">
+        <div>
+            <p class="pb-5">
                 Musica inaudita ist eine seit 2021 bestehende Initiative der Universität der Künste Berlin, die mit ihrer Arbeit auf strukturell diskriminierende Realitäten der ‚klassischen’ Musikwelt aufmerksam macht.
                 Komponistinnen und Musikerinnen, die nicht <em>weiß²</em>, heteronormativ, abled und cis-männlich sind, werden im Musikbetrieb marginalisiert.
                 Aus diesem Grund ist es ein Anliegen der Initiative, Komponistinnen hör- und sichtbar zu machen, die aufgrund ihres Geschlechts, ihrer sexuellen Identität,
                     sozialen oder nationalen Herkunft, Hautfarbe, Religion, Sprache, Behinderung oder politischer Anschauung nie Teil eines Kanons waren oder nachträglich aus ihnen entfernt wurden. Musica inaudita organisiert regelmäßig Konzerte mit dem Ziel,
                     Kanonizität kritisch einzuordnen und Alternativen zu präsentieren. Durch die Konzerte wird der Musik von marginalisierten Komponistinnen eine Bühne geboten.
                 Neben Konzerten bietet die Initiative musikwissenschaftliche Workshops an und pflegt eine Datenbank, die Zugang zu Noten von und Informationen zu marginalisierten Komponist*innen bietet. 
-                </p>
+            </p>
             <p class="text-sm">
                 ² Der Begriff „weiß“ wird klein und kursiv geschrieben, da er nicht die neutrale Beschreibung der Hautfarbe, sondern die Privilegierung und gesellschaftliche Machtposition von Menschen ohne Rassismuserfahrungen meint.
             </p>
