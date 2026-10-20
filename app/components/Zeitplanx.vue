@@ -66,8 +66,9 @@
             12:45 Uhr: Workshop | Eli Vardzhiyska (sie/ihr): Gemeinsame Reflexion  <br> <br>
             13:30 Uhr: Ausklang <br> <br>
             14:00 Uhr: Mittagspause <br> <br>
-            15:00 Uhr: Tagung der Bundesfachschaft Musikwissenschaften (BFM) <br> <br>
-            17:00 Uhr: Mitgliederversammlung des Dachverbandes der Studierenden der Musikwissenschaften e.V. (DVSM)
+            15 Uhr: DVSM-Mitgliederversammlung <br> <br>
+            16:30 Uhr: Die Bundesfachschaft Musikwissenschaften-Tagung <br> <br> 
+            18 Uhr: Ende
         </p>
     </div>
 </template>
