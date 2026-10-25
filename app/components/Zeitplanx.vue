@@ -14,13 +14,13 @@
             13:00 Uhr: Kaffee und Kennenlernen <br> <br>
             14:00 Uhr: Begrüßung von Musica inaudita und dem Dachverband der Studierenden der Musikwissenschaften e.V. (DVSM) <br> <br>
             14:30 Uhr: Lecture Performance | Maebh Murphy (sie/ihr): Vergleichende Musikwissenschaft? <br> <br>
-            15:00 Uhr: Vortrag | Lily Hußmann (they/them/dey/deren): Roll Over Beethoven, Tell Carl Dahlhaus the News? <br> <br>
+            15:00 Uhr: Vortrag | Lily Hußmann (dey/deren/they/them/keine): Roll Over Beethoven, Tell Carl Dahlhaus the News? <br> <br>
             15:30 Uhr: Bewegte Pause <br> <br>
             16:00 Uhr: Vortrag | Leander von Criegern (er/ihm), Laris Bäucker (alle): Vom Klang zur Performance. Relationale Praktiken in der Neuen Musik <br> <br>
             16:30 Uhr: Performance | Peter Tracy (er/ihm): In the Fullness of Time: Eva-Maria Houben’s John Muir Trails <br> <br>
             17:30 Uhr: Vortrag | Nelli Nikolaevna Tatarenko (sie/ihr): Kurzvideos als alternative Form musikwissenschaftlicher Wissensvermittlung auf Grundlage des Social Media Musikkanals Know Your Tune (know.your.tune) <br> <br>
             18:00 Uhr: Abendpause <br> <br>
-            19:30 Uhr: Abendprogramm <br> Helena Ernst (sie/ihr) <br> Karin Zöllner (sie/ihr) <br> Ronja Andersson (sie/ihr), Yuma Kruse (er/ihm) <br> mit Werken u.a. von Sohui Jeong und Amy Beach.
+            19:30 Uhr: Abendprogramm <br> Helena Ernst (sie/ihr) <br> Karin Zöllner (sie/ihr) <br> Yuma Shigesada (er/ihm)  & Hakim Azmi (er/ihm) <br> mit Werken u.a. von Sohui Jeong und Amy Beach.
         </p>
     </div>
     <div class="md:text-lg text-md px-10 md:px-30 pt-20">
@@ -36,7 +36,7 @@
             10:30 Uhr: Vortrag | Isabelle Kretschmer (sie/ihr): Silenc-es/-ing': Intersektionale Perspektiven in Musicals am Beispiel von 'A Strange Loop', 'Fun Home', 'Hedwig and the Angry Inch' und 'The Color Purple' <br> <br>
             11:00 Uhr: Vortrag | Tamina Pamir (sie/ihr): “Do you have a K-Pop Bias?” Zur Aushandlung von Präferenzen für K-Pop-Gruppen: Eine qualitative Interviewstudie <br> <br>
             11:30 Uhr: Künstlerische Intervention | Rosanna Lovell & Studierende der Universität Hildesheim <br> <br>
-            12:00 Uhr: Kleine Pause <br> <br>
+            12:00 Uhr: Workshop | Leander von Criegern (er/ihm), Laris Bäucker (alle): Partizipativer künstlerischer Beitrag “Mussage” <br> <br>
             13:00 Uhr: Vortrag | Rosa Elvira Bandera Sotelo (sie/ihr): Künstlerische Forschung als Mittel für neue Formen des Wissenserwerbs <br> <br>
             13:30 Uhr: Vortrag | Seonhwa Lee (sie/ihr): Emilie Mayers Cellosonaten: Rezeption und Interpretation <br> <br>
             14:00 Uhr: Mittagspause <br> <br>
