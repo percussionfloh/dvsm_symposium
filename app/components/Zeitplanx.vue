@@ -66,9 +66,9 @@
             12:45 Uhr: Workshop | Eli Vardzhiyska (sie/ihr): Gemeinsame Reflexion  <br> <br>
             13:30 Uhr: Ausklang <br> <br>
             14:00 Uhr: Mittagspause <br> <br>
-            15 Uhr: DVSM-Mitgliederversammlung <br> <br>
+            15:00 Uhr: DVSM-Mitgliederversammlung <br> <br>
             16:30 Uhr: Die Bundesfachschaft Musikwissenschaften-Tagung <br> <br> 
-            18 Uhr: Ende
+            18:00 Uhr: Ende
         </p>
     </div>
 </template>
