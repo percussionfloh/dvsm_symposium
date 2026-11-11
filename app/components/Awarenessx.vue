@@ -71,11 +71,6 @@
                     Wir freuen uns auf einen inspirierenden Austausch und ein Symposium, bei dem sich
                     möglichst alle willkommen, respektiert und ernst genommen fühlen.
                 </div>
-                <br>
-                <div>
-                    Das Organisationsteam <br>
-                    <i>Musica inaudita </i>
-                </div>
         </div>
     </div>
 </template>
