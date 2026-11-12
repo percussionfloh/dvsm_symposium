@@ -9,7 +9,7 @@ colorMode.value = 'light'
 
 <template>
   <div class="flex justify-center px-2 sm:px-4">
-    <img src="/assets/uberschrift.png" class="block w-full max-w-3xl max-h-50 sm:max-h-60 md:max-h-100 h-auto object-contain" alt="40. DVSM-Nachwuchssymposium - Critical Musicologies: Zwischen Kanonizität, Lehre und künstlerischer Praxis - 20.–22.11.2026">
+    <img src="/assets/titel.png" class="block w-full max-w-3xl max-h-50 sm:max-h-60 md:max-h-100 h-auto object-contain" alt="40. DVSM-Nachwuchssymposium - Critical Musicologies: Zwischen Kanonizität, Lehre und künstlerischer Praxis - 20.–22.11.2026">
   </div>
   <div class="w-full grid 
               grid-rows-[0.03fr_0.5fr_0.3fr_0.3fr_01.fr_0.7fr]
