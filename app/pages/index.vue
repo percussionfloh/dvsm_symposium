@@ -9,8 +9,8 @@ colorMode.value = 'light'
 
 <template>
   <div class="w-full grid 
-              grid-rows-[0.03fr_0.5fr_0.3fr_0.3fr_0.7fr_0.1fr]
-              md:grid-rows-[0.03fr_0.5fr_0.3fr_0.3fr_0.7fr_0.1fr]
+              grid-rows-[0.03fr_0.5fr_0.3fr_0.3fr_01.fr_0.7fr]
+              md:grid-rows-[0.03fr_0.5fr_0.3fr_0.3fr_01.fr_0.7fr]
               gap-3 pt-4 px-4 
               sm:gap-6 sm:pt-9 sm:px-15 
               md:gap-10 md:pt-20 md:px-20 
