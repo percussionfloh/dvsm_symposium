@@ -18,9 +18,6 @@
                 <img src="/assets/dvsm_logo.png" class="block max-h-16 sm:max-h-28 md:max-h-40 w-auto object-contain" alt="Logo DVSM">
             </div>
         </div>
-        <div class="flex justify-center px-2 sm:px-4">
-            <img src="/assets/uberschrift.png" class="block w-full max-w-3xl max-h-50 sm:max-h-60 md:max-h-100 h-auto object-contain" alt="40. DVSM-Nachwuchssymposium - Critical Musicologies: Zwischen Kanonizität, Lehre und künstlerischer Praxis - 20.–22.11.2026">
-        </div>
     </div>
 </header>
 </template>
