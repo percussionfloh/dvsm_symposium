@@ -14,13 +14,13 @@
             13:00 Uhr: Kaffee und Kennenlernen <br> <br>
             14:00 Uhr: Begrüßung von Musica inaudita und dem Dachverband der Studierenden der Musikwissenschaften e.V. (DVSM) <br> <br>
             14:30 Uhr: Lecture Performance | Maebh Murphy (sie/ihr): Vergleichende Musikwissenschaft? <br> <br>
-            15:00 Uhr: Vortrag | Lily Hußmann (dey/deren/they/them/keine): Roll Over Beethoven, Tell Carl Dahlhaus the News? <br> <br>
+            15:00 Uhr: Vortrag | Lily Hußmann (dey/they/keine): Roll Over Beethoven, Tell Carl Dahlhaus the News? <br> <br>
             15:30 Uhr: Bewegte Pause <br> <br>
-            16:00 Uhr: Vortrag | Leander von Criegern (er/ihm), Laris/Lara Bäucker (alle): Vom Klang zur Performance. Relationale Praktiken in der Neuen Musik <br> <br>
+            16:00 Uhr: Vortrag | Leander von Criegern (er/ihm): Vom Klang zur Performance. Relationale Praktiken in der Neuen Musik <br> <br>
             16:30 Uhr: Performance | Peter Tracy (er/ihm): In the Fullness of Time: Eva-Maria Houben’s John Muir Trails <br> <br>
             17:30 Uhr: Vortrag | Nelli Nikolaevna Tatarenko (sie/ihr): Kurzvideos als alternative Form musikwissenschaftlicher Wissensvermittlung auf Grundlage des Social Media Musikkanals Know Your Tune (know.your.tune) <br> <br>
             18:00 Uhr: Abendpause <br> <br>
-            19:30 Uhr: Abendprogramm <br> Helena Ernst (sie/ihr) <br> Karin Zöllner (sie/ihr) <br> Yuma Shigesada (er/ihm)  & Hakim Azmi (er/ihm) <br> mit Werken u.a. von Sohui Jeong und Amy Beach.
+            19:30 Uhr: Abendprogramm <br> Helena Ernst (sie/ihr) <br> Karin Zöllner (sie/ihr) <br> Yuma Shigesada (er/ihm) & Hakim Azmi (er/ihm) <br> mit Werken von Amy Beach, Sofia Asgatowna Gubaidulina, Sohui Jeong, Mary Lou Williams
         </p>
     </div>
     <div class="md:text-lg text-md px-10 md:px-30 pt-20">
@@ -36,7 +36,7 @@
             10:30 Uhr: Vortrag | Isabelle Kretschmer (sie/ihr): Silenc-es/-ing': Intersektionale Perspektiven in Musicals am Beispiel von 'A Strange Loop', 'Fun Home', 'Hedwig and the Angry Inch' und 'The Color Purple' <br> <br>
             11:00 Uhr: Vortrag | Tamina Pamir (sie/ihr): “Do you have a K-Pop Bias?” Zur Aushandlung von Präferenzen für K-Pop-Gruppen: Eine qualitative Interviewstudie <br> <br>
             11:30 Uhr: Künstlerische Intervention | Rosanna Lovell & Studierende der Universität Hildesheim <br> <br>
-            12:00 Uhr: Workshop | Laris/Lara Bäucker (alle): Mussage - Eine relationale Klang-Körper-Praxis <br> <br>
+            12:00 Uhr: Workshop | Laris/Lara Bäucker (alle/gemischt): <i>Mussage</i> - Eine relationale Klang-Körper-Praxis <br> <br>
             13:00 Uhr: Vortrag | Rosa Elvira Bandera Sotelo (sie/ihr): Künstlerische Forschung als Mittel für neue Formen des Wissenserwerbs <br> <br>
             13:30 Uhr: Vortrag | Seonhwa Lee (sie/ihr): Emilie Mayers Cellosonaten: Rezeption und Interpretation <br> <br>
             14:00 Uhr: Mittagspause <br> <br>
@@ -44,8 +44,8 @@
             16:00 Uhr: Vortrag | Fee-Noa Wendsche (keine): Backstage Awareness - Antidiskriminierung für marginalisierte Musiker*innen <br> <br>
             16:30 Uhr: Vortrag | Marie Schürmann (sie/ihr): Kulturförderung/ -finanzierung und Diversifizierte Repertoirepraxis professioneller Sinfonieorchester <br> <br>
             17:00 Uhr: Kaffeepause <br> <br>
-            17:15 Uhr: Workshop | Laris/Lara Bäucker (alle): Mussage - Eine relationale Klang-Körper-Praxis <br> <br>
-            18:15 Uhr: Ausklang | Im Anschluss kann das MEHRLICHT!MUSIK 2026 – Ein Festival für neue Kompositionen von Studierenden besucht werden. <br> (19 Uhr im Studiosaal der HfM Hanns Eisler Berlin (Charlottenstraße 55, 10117 Berlin)) <br> <br> 
+            17:15 Uhr: Workshop | Laris/Lara Bäucker (alle/gemischt): <i>Mussage</i> - Eine relationale Klang-Körper-Praxis <br> <br>
+            18:15 Uhr: Ausklang | Im Anschluss kann das MEHRLICHT!MUSIK 2026 – Ein Festival für neue Kompositionen von Studierenden besucht werden. <br> (19 Uhr im Studiosaal der HfM Hanns Eisler Berlin - Charlottenstraße 55, 10117 Berlin) <br> <br> 
             20:00 Uhr: Fachschaftsparty im Institut für Musikwissenschaft der Humboldt Universität zu Berlin <br> <br>
         </p>
     </div>
@@ -63,12 +63,12 @@
             11:00 Uhr: Vortrag | Paula Rösner (sie/ihr): Jazzfrauen in der DDR – Zwischen Identität und Ideologie <br> <br>
             11:30 Uhr: Bewegte Pause <br> <br>
             12:00 Uhr: Vortrag | Han Körner (dey/demm/deren), Beeke Hölzer (sie/ihr): Critical Classics: Auf der Suche nach konstruktiven Umgangsformen mit Diskriminierung in kanonischen Werken – oder: Was zur Hölle machen wir mit diesem Stück?! <br> <br>
-            12:45 Uhr: Workshop | Eli Vardzhiyska (sie/ihr): Gemeinsame Reflexion  <br> <br>
-            13:30 Uhr: Ausklang <br> <br>
+            12:45 Uhr: Workshop | Eli Vardzhiyska (sie/ihr), Jürgen Herreiner (er/they/keine): Voice-to-Notes: Eine Übung zur Archivierung von Erfahrungen <br> <br>
+            13:30 Uhr: Ausklang | Im Anschluss kann das MEHRLICHT!MUSIK 2026 – Ein Festival für neue Kompositionen von Studierenden besucht werden. <br> (Eintritt frei, ab 15 Uhr im Probensaal der UdK - Bundesallee 1-12, 10719 Berlin-Charlottenburg) <br> <br> <br> <br>
             14:00 Uhr: Mittagspause <br> <br>
             15:00 Uhr: DVSM-Mitgliederversammlung <br> <br>
-            16:30 Uhr: Die Bundesfachschaft Musikwissenschaften-Tagung <br> <br> 
-            18:00 Uhr: Ende
+            16:30 Uhr: Vollversammlung der Bundesfachschaft Musikwissenschaften (BFM) <br> <br> 
+            18:00 Uhr: Offizielles Ende
         </p>
     </div>
 </template>
