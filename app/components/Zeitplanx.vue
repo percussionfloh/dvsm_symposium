@@ -64,7 +64,7 @@
             11:30 Uhr: Bewegte Pause <br> <br>
             12:00 Uhr: Vortrag | Han Körner (dey/demm/deren), Beeke Hölzer (sie/ihr): Critical Classics: Auf der Suche nach konstruktiven Umgangsformen mit Diskriminierung in kanonischen Werken – oder: Was zur Hölle machen wir mit diesem Stück?! <br> <br>
             12:45 Uhr: Workshop | Eli Vardzhiyska (sie/ihr), Jürgen Herreiner (er/they/keine): Voice-to-Notes: Eine Übung zur Archivierung von Erfahrungen <br> <br>
-            13:30 Uhr: Ausklang | Im Anschluss kann das MEHRLICHT!MUSIK 2026 – Ein Festival für neue Kompositionen von Studierenden besucht werden. <br> (Eintritt frei, ab 15 Uhr im Probensaal der UdK - Bundesallee 1-12, 10719 Berlin-Charlottenburg) <br> <br> <br> <br>
+            13:30 Uhr: Ausklang | Im Anschluss kann das MEHRLICHT!MUSIK 2026 – Ein Festival für neue Kompositionen von Studierenden besucht werden. <br> (Eintritt frei, ab 15 Uhr im Probensaal der UdK - Bundesallee 1-12, 10719 Berlin-Charlottenburg) <br> <br>
             14:00 Uhr: Mittagspause <br> <br>
             15:00 Uhr: DVSM-Mitgliederversammlung <br> <br>
             16:30 Uhr: Vollversammlung der Bundesfachschaft Musikwissenschaften (BFM) <br> <br> 
