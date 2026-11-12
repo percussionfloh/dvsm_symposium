@@ -10,9 +10,7 @@
                 <img src="/assets/musica_inaudita_Logo_kurz_schwarz.png" class="block max-h-16 sm:max-h-28 md:max-h-40 w-auto object-contain" alt="Logo musica inaudita">
             </div>
             <div class="flex items-center text-center">
-                <h1 class="text-sm sm:text-2xl md:text-3xl lg:text-4xl font-bold leading-tight">
-                    40. DVSM-Nachwuchssymposium
-                </h1>
+                <img src="/assets/dvsm_nw_symposium.png" alt="40. DVSM-Nachwuchssymposium">
             </div>
             <div class="flex p-1 sm:p-2 md:p-4">
                 <img src="/assets/dvsm_logo.png" class="block max-h-16 sm:max-h-28 md:max-h-40 w-auto object-contain" alt="Logo DVSM">
