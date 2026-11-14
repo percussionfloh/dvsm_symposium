@@ -164,6 +164,13 @@ onUnmounted(() => {
                         Über uns
                     </NuxtLink>
 
+                    <NuxtLink
+                        to="/kwr"
+                        class="rounded-md p-2 hover:bg-gray-100 dark:hover:bg-gray-800"
+                        @click="isOpen = false"
+                    >
+                        Lösung Kreuzworträtsel
+                    </NuxtLink>
                 </nav>
 
             </div>
