@@ -15,7 +15,7 @@ colorMode.value = 'light'
 
     <UContainer class="py-8 sm:py-12 lg:py-16 flex flex-col gap-10 lg:gap-16">
       <div class="flex flex-wrap justify-center gap-8">
-        <UButton to="/symposium_programmheft.pdf" external download="DVSM-Nachwuchssymposium-Programmheft.pdf" trailing-icon="i-lucide-download" size="xl" class="bg-blue-600 hover:bg-blue-700 font-bold" label="Programmheft herunterladen" />
+        <!-- <UButton to="/symposium_programmheft.pdf" external download="DVSM-Nachwuchssymposium-Programmheft.pdf" trailing-icon="i-lucide-download" size="xl" class="bg-blue-600 hover:bg-blue-700 font-bold" label="Programmheft herunterladen" /> -->
         <UButton to="/Zeitplan" trailing-icon="i-lucide-arrow-right" size="xl" class="bg-blue-600 hover:bg-blue-700 font-bold" label="Hier geht's zum Zeitplan!" />
       </div>
       <Infotextx />
